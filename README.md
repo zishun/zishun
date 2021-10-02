@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[Openmesh python cheat-sheet](https://gist.github.com/zishun/0ba4f7925a1cd1ece890eb4dee4cd81e)
+[OpenMesh python cheat-sheet](https://gist.github.com/zishun/0ba4f7925a1cd1ece890eb4dee4cd81e)
