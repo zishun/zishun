@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 [OpenMesh python cheat-sheet](https://gist.github.com/zishun/0ba4f7925a1cd1ece890eb4dee4cd81e)
+
+[Awesome geometry processing](https://github.com/zishun/Awesome-geometry-processing/)
