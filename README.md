@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[OpenMesh python cheat-sheet](https://gist.github.com/zishun/0ba4f7925a1cd1ece890eb4dee4cd81e)
+[OpenMesh python cheat-sheet](https://gist.github.com/zishun/0ba4f7925a1cd1ece890eb4dee4cd81e)![star](https://img.shields.io/github/gist/stars/0ba4f7925a1cd1ece890eb4dee4cd81e?style=flat)
 
-[Awesome geometry processing](https://github.com/zishun/Awesome-geometry-processing/)
+[Awesome geometry processing](https://github.com/zishun/Awesome-geometry-processing/)![star](https://img.shields.io/github/stars/zishun/Awesome-geometry-processing?style=flat)
